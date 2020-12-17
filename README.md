@@ -1,2 +1,3 @@
 # WhitePaper
-The white-paper for Kylin Network.
+The [white-paper](https://docsend.com/view/pabw88vupn7bas6k) for Kylin Network.
+
